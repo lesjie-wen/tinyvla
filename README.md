@@ -4,13 +4,10 @@ for Robotic Manipulation</h1>
 
 <h5 align="center">
 
-[![hf_space](https://img.shields.io/badge/🤗-MTGV%20HuggingFace-blue.svg)](https://huggingface.co/mtgv)
-[![Code License](https://img.shields.io/badge/Code%20License-Apache_2.0-green.svg)](https://github.com/tatsu-lab/stanford_alpaca/blob/main/LICENSE)
-[![github](https://img.shields.io/badge/-Github-black?logo=github)](https://github.com/Meituan-AutoML/MobileVLM.git)[![github](https://img.shields.io/github/stars/Meituan-AutoML/MobileVLM.svg?style=social)](https://github.com/Meituan-AutoML/MobileVLM.git)  
 
 </h5>
 
-* **MobileVLM V2: Faster and Stronger Baseline for Vision Language Model** <br>
+* **TinyVLA: Towards Fast, Data-Efficient Vision-Language-Action Modelsfor Robotic Manipulation** <br>
   [![arXiv](https://img.shields.io/badge/Arxiv-2402.03766-b31b1b.svg?logo=arXiv)](https://arxiv.org/abs/2402.03766)
   [![BibTex](https://img.shields.io/badge/📜-MobileVLM%20V2%20BibTex-Green.svg)](https://github.com/Meituan-AutoML/MobileVLM?tab=readme-ov-file#%EF%B8%8F-reference)
 
