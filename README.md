@@ -4,7 +4,7 @@ for Robotic Manipulation</h1>
 
 
 * **TinyVLA: Towards Fast, Data-Efficient Vision-Language-Action Modelsfor Robotic Manipulation** <br>
-  [![arXiv](https://img.shields.io/badge/Arxiv-2402.03766-b31b1b.svg?logo=arXiv)](https://arxiv.org/abs/2409.12514)
+  [![arXiv](https://img.shields.io/badge/Arxiv-2409.12514-b31b1b.svg?logo=arXiv)](https://arxiv.org/abs/2409.12514)
   
 
 
