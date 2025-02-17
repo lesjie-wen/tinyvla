@@ -11,4 +11,4 @@ for Robotic Manipulation</h1>
 ## 📰 News
 
 * **`Nov. 19th, 2024`**: **TinyVLA** is out! **Paper** can be found [here](https://arxiv.org/abs/2409.12514). The **project web** can be found [here](https://tiny-vla.github.io/).
-* Code is coming soon....
+* **`Feb. 17th, 2025`**: Code is out at this new [repository](https://github.com/liyaxuanliyaxuan/TinyVLA).
